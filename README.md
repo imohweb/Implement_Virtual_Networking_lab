@@ -1,1 +1,2 @@
-# Implement_Virtual_Networking_lab
+# Implementing Virtual Networking Lab
+In this lab, I created a virtual network in Azure that hosted a couple of Azure virtual machines. The aim is to implement network-based segmentation, that deployd the VMs into different subnets of the virtual network. I made sure that their private and public IP addresses will not change over time. To comply with standard security requirements, access to the public endpoints of Azure virtual machines are protected from Internet. Finally, implemented DNS name resolution for Azure virtual machines both within the virtual network and from Internet.
